@@ -1,0 +1,33 @@
+{
+  "BTTGestureNotes" : "Numeric keyboard, verbose",
+  "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+  "BTTPredefinedActionType" : 118,
+  "BTTPredefinedActionName" : "Insert \/ Type \/ Paste Custom Text",
+  "BTTStringToType" : "8",
+  "BTTMoveCursorLeftBy" : "0",
+  "BTTAdditionalConfiguration" : "8781824",
+  "BTTEnabled2" : 1,
+  "BTTTriggerOnDown" : 1,
+  "BTTEnabled" : 1,
+  "BTTShortcutKeyCode" : 28,
+  "BTTShortcutModifierKeys" : 8781824,
+  "BTTOrder" : 72,
+  "BTTAdditionalActions" : [
+    {
+      "BTTTriggerType" : -1,
+      "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+      "BTTPredefinedActionType" : 137,
+      "BTTPredefinedActionName" : "Execute Terminal Command (Async, non-blocking)",
+      "BTTTerminalCommand" : "say 8",
+      "BTTEnabled2" : 1,
+      "BTTEnabled" : 1,
+      "BTTShortcutKeyCode" : -1,
+      "BTTShortcutModifierKeys" : -1,
+      "BTTOrder" : 0
+    }
+  ],
+  "BTTTriggerConfig" : {
+    "BTTHUDText" : "8",
+    "BTTShowHUD" : 1
+  }
+}

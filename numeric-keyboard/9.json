@@ -1,0 +1,15 @@
+{
+  "BTTGestureNotes" : "Numeric keyboard",
+  "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+  "BTTPredefinedActionType" : 118,
+  "BTTPredefinedActionName" : "Insert \/ Type \/ Paste Custom Text",
+  "BTTStringToType" : "9",
+  "BTTMoveCursorLeftBy" : "0",
+  "BTTAdditionalConfiguration" : "8650752",
+  "BTTEnabled2" : 1,
+  "BTTTriggerOnDown" : 1,
+  "BTTEnabled" : 1,
+  "BTTShortcutKeyCode" : 25,
+  "BTTShortcutModifierKeys" : 8650752,
+  "BTTOrder" : 73
+}
