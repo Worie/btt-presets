@@ -2,7 +2,7 @@
 
 Holding `fn + ctrl` will map following keys into numbers:
 
-||phisical key||->||\|result||
+||phisical key||->||result||
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 7 | 8 | 9 |   | 7 | 8 | 9 |
 | u | i | o |   | 4 | 5 | 6 |
