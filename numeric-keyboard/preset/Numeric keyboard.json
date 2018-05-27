@@ -1,0 +1,620 @@
+{
+  "BTTPresetName" : "Numeric keyboard",
+  "BTTPresetUUID" : "74CCF3F2-C5CA-4F28-B053-4A08B3369FA9",
+  "BTTPresetContent" : [
+    {
+      "BTTAppBundleIdentifier" : "BT.G",
+      "BTTAppName" : "Global",
+      "BTTTriggers" : [
+        {
+          "BTTGestureNotes" : "Numeric keyboard, verbose",
+          "BTTTriggerType" : -1,
+          "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+          "BTTPredefinedActionType" : 118,
+          "BTTPredefinedActionName" : "Insert \/ Type \/ Paste Custom Text",
+          "BTTStringToType" : "7",
+          "BTTMoveCursorLeftBy" : "0",
+          "BTTAdditionalConfiguration" : "8781824",
+          "BTTEnabled2" : 1,
+          "BTTTriggerOnDown" : 1,
+          "BTTEnabled" : 1,
+          "BTTShortcutKeyCode" : 26,
+          "BTTShortcutModifierKeys" : 8781824,
+          "BTTOrder" : 70,
+          "BTTAdditionalActions" : [
+            {
+              "BTTTriggerType" : -1,
+              "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+              "BTTPredefinedActionType" : 137,
+              "BTTPredefinedActionName" : "Execute Terminal Command (Async, non-blocking)",
+              "BTTTerminalCommand" : "say 7",
+              "BTTEnabled2" : 1,
+              "BTTEnabled" : 1,
+              "BTTShortcutKeyCode" : -1,
+              "BTTShortcutModifierKeys" : -1,
+              "BTTOrder" : 0
+            }
+          ],
+          "BTTTriggerConfig" : {
+            "BTTHUDText" : "7",
+            "BTTShowHUD" : 1
+          }
+        },
+        {
+          "BTTGestureNotes" : "Numeric keyboard, verbose",
+          "BTTTriggerType" : -1,
+          "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+          "BTTPredefinedActionType" : 118,
+          "BTTPredefinedActionName" : "Insert \/ Type \/ Paste Custom Text",
+          "BTTStringToType" : "8",
+          "BTTMoveCursorLeftBy" : "0",
+          "BTTAdditionalConfiguration" : "8781824",
+          "BTTEnabled2" : 1,
+          "BTTTriggerOnDown" : 1,
+          "BTTEnabled" : 1,
+          "BTTShortcutKeyCode" : 28,
+          "BTTShortcutModifierKeys" : 8781824,
+          "BTTOrder" : 72,
+          "BTTAdditionalActions" : [
+            {
+              "BTTTriggerType" : -1,
+              "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+              "BTTPredefinedActionType" : 137,
+              "BTTPredefinedActionName" : "Execute Terminal Command (Async, non-blocking)",
+              "BTTTerminalCommand" : "say 8",
+              "BTTEnabled2" : 1,
+              "BTTEnabled" : 1,
+              "BTTShortcutKeyCode" : -1,
+              "BTTShortcutModifierKeys" : -1,
+              "BTTOrder" : 0
+            }
+          ],
+          "BTTTriggerConfig" : {
+            "BTTHUDText" : "8",
+            "BTTShowHUD" : 1
+          }
+        },
+        {
+          "BTTGestureNotes" : "Numeric keyboad, verbose",
+          "BTTTriggerType" : -1,
+          "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+          "BTTPredefinedActionType" : 118,
+          "BTTPredefinedActionName" : "Insert \/ Type \/ Paste Custom Text",
+          "BTTStringToType" : ".",
+          "BTTMoveCursorLeftBy" : "0",
+          "BTTAdditionalConfiguration" : "8781824",
+          "BTTEnabled2" : 1,
+          "BTTTriggerOnDown" : 1,
+          "BTTEnabled" : 1,
+          "BTTShortcutKeyCode" : 47,
+          "BTTShortcutModifierKeys" : 8781824,
+          "BTTOrder" : 88,
+          "BTTAdditionalActions" : [
+            {
+              "BTTTriggerType" : -1,
+              "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+              "BTTPredefinedActionType" : 137,
+              "BTTPredefinedActionName" : "Execute Terminal Command (Async, non-blocking)",
+              "BTTTerminalCommand" : "say \"..\"",
+              "BTTEnabled2" : 1,
+              "BTTEnabled" : 1,
+              "BTTShortcutKeyCode" : -1,
+              "BTTShortcutModifierKeys" : -1,
+              "BTTOrder" : 0
+            }
+          ],
+          "BTTTriggerConfig" : {
+            "BTTHUDText" : ".",
+            "BTTShowHUD" : 1
+          }
+        },
+        {
+          "BTTGestureNotes" : "Numeric keyboard, verbose",
+          "BTTTriggerType" : -1,
+          "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+          "BTTPredefinedActionType" : 118,
+          "BTTPredefinedActionName" : "Insert \/ Type \/ Paste Custom Text",
+          "BTTStringToType" : "1",
+          "BTTMoveCursorLeftBy" : "0",
+          "BTTAdditionalConfiguration" : "8781824",
+          "BTTEnabled2" : 1,
+          "BTTTriggerOnDown" : 1,
+          "BTTEnabled" : 1,
+          "BTTShortcutKeyCode" : 38,
+          "BTTShortcutModifierKeys" : 8781824,
+          "BTTOrder" : 82,
+          "BTTAdditionalActions" : [
+            {
+              "BTTTriggerType" : -1,
+              "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+              "BTTPredefinedActionType" : 137,
+              "BTTPredefinedActionName" : "Execute Terminal Command (Async, non-blocking)",
+              "BTTTerminalCommand" : "say 1",
+              "BTTEnabled2" : 1,
+              "BTTEnabled" : 1,
+              "BTTShortcutKeyCode" : -1,
+              "BTTShortcutModifierKeys" : -1,
+              "BTTOrder" : 0
+            }
+          ],
+          "BTTTriggerConfig" : {
+            "BTTHUDText" : "1",
+            "BTTShowHUD" : 1
+          }
+        },
+        {
+          "BTTGestureNotes" : "Numeric keyboard, verbose",
+          "BTTTriggerType" : -1,
+          "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+          "BTTPredefinedActionType" : 118,
+          "BTTPredefinedActionName" : "Insert \/ Type \/ Paste Custom Text",
+          "BTTStringToType" : "6",
+          "BTTMoveCursorLeftBy" : "0",
+          "BTTAdditionalConfiguration" : "8781824",
+          "BTTEnabled2" : 1,
+          "BTTTriggerOnDown" : 1,
+          "BTTEnabled" : 1,
+          "BTTShortcutKeyCode" : 31,
+          "BTTShortcutModifierKeys" : 8781824,
+          "BTTOrder" : 80,
+          "BTTAdditionalActions" : [
+            {
+              "BTTTriggerType" : -1,
+              "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+              "BTTPredefinedActionType" : 137,
+              "BTTPredefinedActionName" : "Execute Terminal Command (Async, non-blocking)",
+              "BTTTerminalCommand" : "say 6",
+              "BTTEnabled2" : 1,
+              "BTTEnabled" : 1,
+              "BTTShortcutKeyCode" : -1,
+              "BTTShortcutModifierKeys" : -1,
+              "BTTOrder" : 0
+            }
+          ],
+          "BTTTriggerConfig" : {
+            "BTTHUDText" : "6",
+            "BTTShowHUD" : 1
+          }
+        },
+        {
+          "BTTGestureNotes" : "Numeric keyboard, verbose",
+          "BTTTriggerType" : -1,
+          "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+          "BTTPredefinedActionType" : 118,
+          "BTTPredefinedActionName" : "Insert \/ Type \/ Paste Custom Text",
+          "BTTStringToType" : "4",
+          "BTTMoveCursorLeftBy" : "0",
+          "BTTAdditionalConfiguration" : "8781824",
+          "BTTEnabled2" : 1,
+          "BTTTriggerOnDown" : 1,
+          "BTTEnabled" : 1,
+          "BTTShortcutKeyCode" : 32,
+          "BTTShortcutModifierKeys" : 8781824,
+          "BTTOrder" : 76,
+          "BTTAdditionalActions" : [
+            {
+              "BTTTriggerType" : -1,
+              "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+              "BTTPredefinedActionType" : 137,
+              "BTTPredefinedActionName" : "Execute Terminal Command (Async, non-blocking)",
+              "BTTTerminalCommand" : "say 4",
+              "BTTEnabled2" : 1,
+              "BTTEnabled" : 1,
+              "BTTShortcutKeyCode" : -1,
+              "BTTShortcutModifierKeys" : -1,
+              "BTTOrder" : 0
+            }
+          ],
+          "BTTTriggerConfig" : {
+            "BTTHUDText" : "4",
+            "BTTShowHUD" : 1
+          }
+        },
+        {
+          "BTTGestureNotes" : "Numeric keyboard",
+          "BTTTriggerType" : -1,
+          "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+          "BTTPredefinedActionType" : 118,
+          "BTTPredefinedActionName" : "Insert \/ Type \/ Paste Custom Text",
+          "BTTStringToType" : "8",
+          "BTTMoveCursorLeftBy" : "0",
+          "BTTAdditionalConfiguration" : "8650752",
+          "BTTEnabled2" : 1,
+          "BTTTriggerOnDown" : 1,
+          "BTTEnabled" : 1,
+          "BTTShortcutKeyCode" : 28,
+          "BTTShortcutModifierKeys" : 8650752,
+          "BTTOrder" : 71
+        },
+        {
+          "BTTGestureNotes" : "Numeric keyboard, verbose",
+          "BTTTriggerType" : -1,
+          "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+          "BTTPredefinedActionType" : 118,
+          "BTTPredefinedActionName" : "Insert \/ Type \/ Paste Custom Text",
+          "BTTStringToType" : "5",
+          "BTTMoveCursorLeftBy" : "0",
+          "BTTAdditionalConfiguration" : "8781824",
+          "BTTEnabled2" : 1,
+          "BTTTriggerOnDown" : 1,
+          "BTTEnabled" : 1,
+          "BTTShortcutKeyCode" : 34,
+          "BTTShortcutModifierKeys" : 8781824,
+          "BTTOrder" : 78,
+          "BTTAdditionalActions" : [
+            {
+              "BTTTriggerType" : -1,
+              "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+              "BTTPredefinedActionType" : 137,
+              "BTTPredefinedActionName" : "Execute Terminal Command (Async, non-blocking)",
+              "BTTTerminalCommand" : "say 5",
+              "BTTEnabled2" : 1,
+              "BTTEnabled" : 1,
+              "BTTShortcutKeyCode" : -1,
+              "BTTShortcutModifierKeys" : -1,
+              "BTTOrder" : 0
+            }
+          ],
+          "BTTTriggerConfig" : {
+            "BTTHUDText" : "5",
+            "BTTShowHUD" : 1
+          }
+        },
+        {
+          "BTTGestureNotes" : "Numeric keyboad",
+          "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+          "BTTPredefinedActionType" : 118,
+          "BTTPredefinedActionName" : "Insert \/ Type \/ Paste Custom Text",
+          "BTTStringToType" : "0",
+          "BTTMoveCursorLeftBy" : "0",
+          "BTTAdditionalConfiguration" : "8650752",
+          "BTTEnabled2" : 1,
+          "BTTTriggerOnDown" : 1,
+          "BTTEnabled" : 1,
+          "BTTShortcutKeyCode" : 43,
+          "BTTShortcutModifierKeys" : 8650752,
+          "BTTOrder" : 87
+        },
+        {
+          "BTTGestureNotes" : "Numeric keyboard, verbose",
+          "BTTTriggerType" : -1,
+          "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+          "BTTPredefinedActionType" : 118,
+          "BTTPredefinedActionName" : "Insert \/ Type \/ Paste Custom Text",
+          "BTTStringToType" : "3",
+          "BTTMoveCursorLeftBy" : "0",
+          "BTTAdditionalConfiguration" : "8781824",
+          "BTTEnabled2" : 1,
+          "BTTTriggerOnDown" : 1,
+          "BTTEnabled" : 1,
+          "BTTShortcutKeyCode" : 37,
+          "BTTShortcutModifierKeys" : 8781824,
+          "BTTOrder" : 86,
+          "BTTAdditionalActions" : [
+            {
+              "BTTTriggerType" : -1,
+              "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+              "BTTPredefinedActionType" : 137,
+              "BTTPredefinedActionName" : "Execute Terminal Command (Async, non-blocking)",
+              "BTTTerminalCommand" : "say 3",
+              "BTTEnabled2" : 1,
+              "BTTEnabled" : 1,
+              "BTTShortcutKeyCode" : -1,
+              "BTTShortcutModifierKeys" : -1,
+              "BTTOrder" : 0
+            }
+          ],
+          "BTTTriggerConfig" : {
+            "BTTHUDText" : "3",
+            "BTTShowHUD" : 1
+          }
+        },
+        {
+          "BTTGestureNotes" : "Numeric keyboard",
+          "BTTTriggerType" : -1,
+          "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+          "BTTPredefinedActionType" : 118,
+          "BTTPredefinedActionName" : "Insert \/ Type \/ Paste Custom Text",
+          "BTTStringToType" : "7",
+          "BTTMoveCursorLeftBy" : "0",
+          "BTTAdditionalConfiguration" : "8650752",
+          "BTTEnabled2" : 1,
+          "BTTTriggerOnDown" : 1,
+          "BTTEnabled" : 1,
+          "BTTShortcutKeyCode" : 26,
+          "BTTShortcutModifierKeys" : 8650752,
+          "BTTOrder" : 69
+        },
+        {
+          "BTTGestureNotes" : "Numeric keyboard",
+          "BTTTriggerType" : -1,
+          "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+          "BTTPredefinedActionType" : 118,
+          "BTTPredefinedActionName" : "Insert \/ Type \/ Paste Custom Text",
+          "BTTStringToType" : "9",
+          "BTTMoveCursorLeftBy" : "0",
+          "BTTAdditionalConfiguration" : "8650752",
+          "BTTEnabled2" : 1,
+          "BTTTriggerOnDown" : 1,
+          "BTTEnabled" : 1,
+          "BTTShortcutKeyCode" : 25,
+          "BTTShortcutModifierKeys" : 8650752,
+          "BTTOrder" : 73
+        },
+        {
+          "BTTGestureNotes" : "Numeric keyboad",
+          "BTTTriggerType" : -1,
+          "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+          "BTTPredefinedActionType" : 118,
+          "BTTPredefinedActionName" : "Insert \/ Type \/ Paste Custom Text",
+          "BTTStringToType" : ".",
+          "BTTMoveCursorLeftBy" : "0",
+          "BTTAdditionalConfiguration" : "8650752",
+          "BTTEnabled2" : 1,
+          "BTTTriggerOnDown" : 1,
+          "BTTEnabled" : 1,
+          "BTTShortcutKeyCode" : 47,
+          "BTTShortcutModifierKeys" : 8650752,
+          "BTTOrder" : 87
+        },
+        {
+          "BTTGestureNotes" : "Numeric keyboard",
+          "BTTTriggerType" : -1,
+          "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+          "BTTPredefinedActionType" : 118,
+          "BTTPredefinedActionName" : "Insert \/ Type \/ Paste Custom Text",
+          "BTTStringToType" : "3",
+          "BTTMoveCursorLeftBy" : "0",
+          "BTTAdditionalConfiguration" : "8650752",
+          "BTTEnabled2" : 1,
+          "BTTTriggerOnDown" : 1,
+          "BTTEnabled" : 1,
+          "BTTShortcutKeyCode" : 37,
+          "BTTShortcutModifierKeys" : 8650752,
+          "BTTOrder" : 85
+        },
+        {
+          "BTTGestureNotes" : "Numeric keyboard",
+          "BTTTriggerType" : -1,
+          "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+          "BTTPredefinedActionType" : 118,
+          "BTTPredefinedActionName" : "Insert \/ Type \/ Paste Custom Text",
+          "BTTStringToType" : "6",
+          "BTTMoveCursorLeftBy" : "0",
+          "BTTAdditionalConfiguration" : "8650752",
+          "BTTEnabled2" : 1,
+          "BTTTriggerOnDown" : 1,
+          "BTTEnabled" : 1,
+          "BTTShortcutKeyCode" : 31,
+          "BTTShortcutModifierKeys" : 8650752,
+          "BTTOrder" : 79
+        },
+        {
+          "BTTGestureNotes" : "Numeric keyboard, verbose",
+          "BTTTriggerType" : -1,
+          "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+          "BTTPredefinedActionType" : 118,
+          "BTTPredefinedActionName" : "Insert \/ Type \/ Paste Custom Text",
+          "BTTStringToType" : "9",
+          "BTTMoveCursorLeftBy" : "0",
+          "BTTAdditionalConfiguration" : "8781824",
+          "BTTEnabled2" : 1,
+          "BTTTriggerOnDown" : 1,
+          "BTTEnabled" : 1,
+          "BTTShortcutKeyCode" : 25,
+          "BTTShortcutModifierKeys" : 8781824,
+          "BTTOrder" : 74,
+          "BTTAdditionalActions" : [
+            {
+              "BTTTriggerType" : -1,
+              "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+              "BTTPredefinedActionType" : 137,
+              "BTTPredefinedActionName" : "Execute Terminal Command (Async, non-blocking)",
+              "BTTTerminalCommand" : "say 9",
+              "BTTEnabled2" : 1,
+              "BTTEnabled" : 1,
+              "BTTShortcutKeyCode" : -1,
+              "BTTShortcutModifierKeys" : -1,
+              "BTTOrder" : 0
+            }
+          ],
+          "BTTTriggerConfig" : {
+            "BTTHUDText" : "9",
+            "BTTShowHUD" : 1
+          }
+        },
+        {
+          "BTTGestureNotes" : "Numeric keyboad, verbose",
+          "BTTTriggerType" : -1,
+          "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+          "BTTPredefinedActionType" : 118,
+          "BTTPredefinedActionName" : "Insert \/ Type \/ Paste Custom Text",
+          "BTTStringToType" : "0",
+          "BTTMoveCursorLeftBy" : "0",
+          "BTTAdditionalConfiguration" : "8781824",
+          "BTTEnabled2" : 1,
+          "BTTTriggerOnDown" : 1,
+          "BTTEnabled" : 1,
+          "BTTShortcutKeyCode" : 43,
+          "BTTShortcutModifierKeys" : 8781824,
+          "BTTOrder" : 88,
+          "BTTAdditionalActions" : [
+            {
+              "BTTTriggerType" : -1,
+              "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+              "BTTPredefinedActionType" : 137,
+              "BTTPredefinedActionName" : "Execute Terminal Command (Async, non-blocking)",
+              "BTTTerminalCommand" : "say 0",
+              "BTTEnabled2" : 1,
+              "BTTEnabled" : 1,
+              "BTTShortcutKeyCode" : -1,
+              "BTTShortcutModifierKeys" : -1,
+              "BTTOrder" : 0
+            }
+          ],
+          "BTTTriggerConfig" : {
+            "BTTHUDText" : "0",
+            "BTTShowHUD" : 1
+          }
+        },
+        {
+          "BTTGestureNotes" : "Numeric keyboad, verbose",
+          "BTTTriggerType" : -1,
+          "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+          "BTTPredefinedActionType" : 118,
+          "BTTPredefinedActionName" : "Insert \/ Type \/ Paste Custom Text",
+          "BTTStringToType" : "0",
+          "BTTMoveCursorLeftBy" : "0",
+          "BTTAdditionalConfiguration" : "8781824",
+          "BTTEnabled2" : 1,
+          "BTTTriggerOnDown" : 1,
+          "BTTEnabled" : 1,
+          "BTTShortcutKeyCode" : 46,
+          "BTTShortcutModifierKeys" : 8781824,
+          "BTTOrder" : 88,
+          "BTTAdditionalActions" : [
+            {
+              "BTTTriggerType" : -1,
+              "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+              "BTTPredefinedActionType" : 137,
+              "BTTPredefinedActionName" : "Execute Terminal Command (Async, non-blocking)",
+              "BTTTerminalCommand" : "say 0",
+              "BTTEnabled2" : 1,
+              "BTTEnabled" : 1,
+              "BTTShortcutKeyCode" : -1,
+              "BTTShortcutModifierKeys" : -1,
+              "BTTOrder" : 0
+            }
+          ],
+          "BTTTriggerConfig" : {
+            "BTTHUDText" : "0",
+            "BTTShowHUD" : 1
+          }
+        },
+        {
+          "BTTGestureNotes" : "Numeric keyboard, verbose",
+          "BTTTriggerType" : -1,
+          "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+          "BTTPredefinedActionType" : 118,
+          "BTTPredefinedActionName" : "Insert \/ Type \/ Paste Custom Text",
+          "BTTStringToType" : "2",
+          "BTTMoveCursorLeftBy" : "0",
+          "BTTAdditionalConfiguration" : "8781824",
+          "BTTEnabled2" : 1,
+          "BTTTriggerOnDown" : 1,
+          "BTTEnabled" : 1,
+          "BTTShortcutKeyCode" : 40,
+          "BTTShortcutModifierKeys" : 8781824,
+          "BTTOrder" : 84,
+          "BTTAdditionalActions" : [
+            {
+              "BTTTriggerType" : -1,
+              "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+              "BTTPredefinedActionType" : 137,
+              "BTTPredefinedActionName" : "Execute Terminal Command (Async, non-blocking)",
+              "BTTTerminalCommand" : "say 2",
+              "BTTEnabled2" : 1,
+              "BTTEnabled" : 1,
+              "BTTShortcutKeyCode" : -1,
+              "BTTShortcutModifierKeys" : -1,
+              "BTTOrder" : 0
+            }
+          ],
+          "BTTTriggerConfig" : {
+            "BTTHUDText" : "2",
+            "BTTShowHUD" : 1
+          }
+        },
+        {
+          "BTTGestureNotes" : "Numeric keyboard",
+          "BTTTriggerType" : -1,
+          "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+          "BTTPredefinedActionType" : 118,
+          "BTTPredefinedActionName" : "Insert \/ Type \/ Paste Custom Text",
+          "BTTStringToType" : "5",
+          "BTTMoveCursorLeftBy" : "0",
+          "BTTAdditionalConfiguration" : "8650752",
+          "BTTEnabled2" : 1,
+          "BTTTriggerOnDown" : 1,
+          "BTTEnabled" : 1,
+          "BTTShortcutKeyCode" : 34,
+          "BTTShortcutModifierKeys" : 8650752,
+          "BTTOrder" : 77
+        },
+        {
+          "BTTGestureNotes" : "Numeric keyboard",
+          "BTTTriggerType" : -1,
+          "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+          "BTTPredefinedActionType" : 118,
+          "BTTPredefinedActionName" : "Insert \/ Type \/ Paste Custom Text",
+          "BTTStringToType" : "2",
+          "BTTMoveCursorLeftBy" : "0",
+          "BTTAdditionalConfiguration" : "8650752",
+          "BTTEnabled2" : 1,
+          "BTTTriggerOnDown" : 1,
+          "BTTEnabled" : 1,
+          "BTTShortcutKeyCode" : 40,
+          "BTTShortcutModifierKeys" : 8650752,
+          "BTTOrder" : 83
+        },
+        {
+          "BTTGestureNotes" : "Numeric keyboad",
+          "BTTTriggerType" : -1,
+          "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+          "BTTPredefinedActionType" : 118,
+          "BTTPredefinedActionName" : "Insert \/ Type \/ Paste Custom Text",
+          "BTTStringToType" : "0",
+          "BTTMoveCursorLeftBy" : "0",
+          "BTTAdditionalConfiguration" : "8650752",
+          "BTTEnabled2" : 1,
+          "BTTTriggerOnDown" : 1,
+          "BTTEnabled" : 1,
+          "BTTShortcutKeyCode" : 46,
+          "BTTShortcutModifierKeys" : 8650752,
+          "BTTOrder" : 87
+        },
+        {
+          "BTTGestureNotes" : "Numeric keyboard",
+          "BTTTriggerType" : -1,
+          "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+          "BTTPredefinedActionType" : 118,
+          "BTTPredefinedActionName" : "Insert \/ Type \/ Paste Custom Text",
+          "BTTStringToType" : "4",
+          "BTTMoveCursorLeftBy" : "0",
+          "BTTAdditionalConfiguration" : "8650752",
+          "BTTEnabled2" : 1,
+          "BTTTriggerOnDown" : 1,
+          "BTTEnabled" : 1,
+          "BTTShortcutKeyCode" : 32,
+          "BTTShortcutModifierKeys" : 8650752,
+          "BTTOrder" : 75
+        },
+        {
+          "BTTGestureNotes" : "Numeric keyboard",
+          "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+          "BTTPredefinedActionType" : 118,
+          "BTTPredefinedActionName" : "Insert \/ Type \/ Paste Custom Text",
+          "BTTStringToType" : "1",
+          "BTTMoveCursorLeftBy" : "0",
+          "BTTAdditionalConfiguration" : "8650752",
+          "BTTEnabled2" : 1,
+          "BTTTriggerOnDown" : 1,
+          "BTTEnabled" : 1,
+          "BTTShortcutKeyCode" : 38,
+          "BTTShortcutModifierKeys" : 8650752,
+          "BTTOrder" : 81
+        }
+      ]
+    },
+    {
+      "BTTAppBundleIdentifier" : "com.apple.finder",
+      "BTTAppName" : "Finder",
+      "BTTTriggers" : [
+
+      ]
+    }
+  ],
+  "BTTPresetSnapAreas" : [
+
+  ]
+}
